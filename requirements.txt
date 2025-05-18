@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pandas
+sentence-transformers
+scikit-learn
+celery
+redis
+python-dotenv
+email-validator
+twilio
+requests
+sqlalchemy
+psycopg2-binary
